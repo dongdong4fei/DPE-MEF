@@ -4,11 +4,11 @@ This is the PyTorch implementation of paper "Multi-exposure image fusion via dee
 
 ## Architecture
 
-![total-struc_0617](E:\Typora\Images\total-struc_0617-1624595772846.png)
+![DPE-MEF pipeline](https://github.com/dongdong4fei/DPE-MEF/blob/master/imgs/pipeline.png)
 
 ## Fusion Results
 
-![DPE-MEF-final 9](E:\Typora\Images\DPE-MEF-final 9.jpg)
+![fusion result](https://github.com/dongdong4fei/DPE-MEF/blob/master/imgs/fusion_result.jpg)
 
 ## Dependencies
 
@@ -22,7 +22,11 @@ The released version of DPE-MEF was implemented and tested on Ubuntu 16.04 with:
 
 ## Train
 
-
+Reorganizing, release soon.
 
 ## Test
+Run the following command:
+``
+python test_ALL.py
 
+The fused results can be found in `./results`.
