@@ -26,7 +26,7 @@ Reorganizing, release soon.
 
 ## Test
 Run the following command:
-``
+```
 python test_ALL.py
-
+```
 The fused results can be found in `./results`.
